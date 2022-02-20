@@ -48,4 +48,4 @@
   ## Questions
   If you have any questions, email me: thisaraeranga@gmail.com
 
-  &copy; ${new Date().getFullYear()} by ${header.name}
+  ## &copy; 2022 by [ThisaraMallawaArachchige](https://github.com/ThisaraMallawaArachchige)

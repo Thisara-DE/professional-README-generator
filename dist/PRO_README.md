@@ -1,7 +1,7 @@
 
-  # Jo's Project
+  # Portfolio-Generator
   ## Description
-  My idea
+  This is an exciting one! This application can build you your own personal portfolio page with the information you provide about your github repositories. This is a node.js based application an you will be entering the the information into the cmd.
 
   <br>
 
@@ -23,20 +23,20 @@
 
   ## Usage
   This project is using following technologies: <br><br>
-  Node.js,  JavaScript
+  Node.js,  JavaScript,  HTML,  CSS
 
   <br>
 
   ## License
   
-  This project is licensed under [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   For more information [visit here.](https://opensource.org/licenses)
   
   
   <br>
 
   ## Contributing
-  Hit me up  
+  You can email me if you have ideas/comments on improving this application.  
 
   <br>
 
@@ -46,8 +46,8 @@
   <br>
 
   ## Questions
-  If you have any questions, email me: joschmo@co
+  If you have any questions, email me: thisaraeranga@gmail.com
 
   <br>
 
-  ## &copy; 2022 by [joSchmo](https://github.com/joSchmo)
+  ## &copy; 2022 by [ThisaraMallawaArachchige](https://github.com/ThisaraMallawaArachchige)

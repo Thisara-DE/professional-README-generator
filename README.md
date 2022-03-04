@@ -46,8 +46,6 @@
   <br>
 
   ## Questions
-  If you have any questions, email me: thisaraeranga@gmail.com
-
-  Walkthrough: https://drive.google.com/file/d/1acdotNSI4ITx1E-LDUuOb9t9u--26_16/view
+  If you have any questions, email me: thisaraeranga@gmail.com  
 
   ## &copy; 2022 by [ThisaraMallawaArachchige](https://github.com/ThisaraMallawaArachchige)
